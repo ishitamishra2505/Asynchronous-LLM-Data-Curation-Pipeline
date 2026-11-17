@@ -8,8 +8,6 @@ import json
 
 import json
 from groq import AsyncGroq
-# WARNING: In a real enterprise app, you hide this in a .env file!
-# For this local MVP test, you can paste your key here.
 
 
 class TrainingDataBot:
